@@ -1,2 +1,2 @@
 #!/bin/env sh
-chmod o+w /sys/devices/platform/clevo_xsm_wmi/kb_*
+sudo chmod o+w /sys/devices/platform/clevo_xsm_wmi/kb_*
